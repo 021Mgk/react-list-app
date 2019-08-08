@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-list-app/static/css/main.f79199e3.chunk.css",
+    "main.js": "/react-list-app/static/js/main.10c24677.chunk.js",
+    "main.js.map": "/react-list-app/static/js/main.10c24677.chunk.js.map",
+    "runtime~main.js": "/react-list-app/static/js/runtime~main.74ef6b00.js",
+    "runtime~main.js.map": "/react-list-app/static/js/runtime~main.74ef6b00.js.map",
+    "static/js/2.a68ccf2f.chunk.js": "/react-list-app/static/js/2.a68ccf2f.chunk.js",
+    "static/js/2.a68ccf2f.chunk.js.map": "/react-list-app/static/js/2.a68ccf2f.chunk.js.map",
+    "index.html": "/react-list-app/index.html",
+    "precache-manifest.5d823c0763fd7cb23210e526907562ed.js": "/react-list-app/precache-manifest.5d823c0763fd7cb23210e526907562ed.js",
+    "service-worker.js": "/react-list-app/service-worker.js",
+    "static/css/main.f79199e3.chunk.css.map": "/react-list-app/static/css/main.f79199e3.chunk.css.map"
+  }
+}
